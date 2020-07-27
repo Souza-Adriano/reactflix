@@ -1,21 +1,21 @@
 import React from 'react';
 import Menu from './components/Menu';
 import Carousel from './components/Carousel';
-import BannerMain from './components/BannerMain'
+import BannerMain, { randomBanner } from './components/BannerMain'
 import Footer from './components/Footer'
 import mock from './data/dados_iniciais.json';
 
 function App() {
+  const banner = randomBanner(mock.categorias)
   return (
     <div style={{ backgroundColor: '#141414' }}>
       <Menu />
       <BannerMain
-        videoTitle={mock.categorias[0].videos[0].titulo}
-        url={mock.categorias[0].videos[0].url}
-        videoDescription={`Voltando ao crack depois de anos !`}
+        videoTitle={banner.titulo}
+        url={banner.url}
+        videoDescription={banner.category}
       />
       <Carousel
-        ignoreFirstVideo
         category={mock.categorias[0]}
       />
       <Carousel

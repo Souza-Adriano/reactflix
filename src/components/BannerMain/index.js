@@ -10,6 +10,19 @@ function getYouTubeId(youtubeURL) {
     );
 }
 
+function generateRandomInteger(min, max) {
+  return Math.floor(min + Math.random()*(max + 1 - min))
+}
+
+export const randomBanner = (data) => {
+  const category = generateRandomInteger(0, (data.length - 1))
+  const video = generateRandomInteger(0, (data[category].videos.length - 1))
+  return {
+    category: data[category].titulo,
+    ...data[category].videos[video]
+  }
+}
+
 export default function BannerMain({
   videoTitle,
   videoDescription,

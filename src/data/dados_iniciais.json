@@ -1,185 +1,198 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "This is Tibia",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Voce para o seu amigo - O grafico é feio, mas o jogo é bom confia",
+        "url": "https://www.tibiawiki.com.br/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Voltei ao Tibia e Agora? - Charms, Bestirary, Runas e Imbuings! (2020)",
+          "url": "https://www.youtube.com/watch?v=s_NfwPnIhuM"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Voltei ao Tibia e Agora? - Preys e Daily Rewards! (2020)",
+          "url": "https://www.youtube.com/watch?v=jn66nsQBB5E"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Tibia - IMBUEMENTS: Oq São? Como faz? Oq vale fazer?",
+          "url": "https://www.youtube.com/watch?v=CMSXDh1VymA"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Mito ou Verdade? Dano Base das Runas",
+          "url": "https://www.youtube.com/watch?v=rrJIsLoyezQ"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Dicas pra quem tá voltando pro Tibia em 2020!",
+          "url": "https://www.youtube.com/watch?v=3HGySlad5DQ"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Como COMPRAR sua PREMIUM TIME pelo JOGO | Tibia",
+          "url": "https://www.youtube.com/watch?v=P4el6BJUGSI"
+        }
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Knight",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Aprenda a ser um EK com as duas mãos, cotoco nunca mais !",
+        "url": "https://www.youtube.com/watch?v=J01csEgocuM&list=PLnTQXqYPYUv-fUZdNhgv9Gu0eNVjh2s5r&index=1"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Cyf Knighthood - EP 11 - Level 60 ao 64. (Upando EK do Zero) ",
+          "url": "https://www.youtube.com/watch?v=qfnn14A1R-A&list=PLnTQXqYPYUv-fUZdNhgv9Gu0eNVjh2s5r&index=11"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "TIBIA - Minuto Tibiano Dicas - Blessed Accorn - Backup Perfeito!",
+          "url": "https://www.youtube.com/watch?v=15twD1b0avw&list=PLnTQXqYPYUv_3QYiwyWxd6XGnDWjwarHV&index=6"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "TIBIA - Minuto Tibiano EK - Prismatic Shield Vs Ornate Shield - Qual o melhor?",
+          "url": "https://www.youtube.com/watch?v=EbScIYT31As&list=PLnTQXqYPYUv_3QYiwyWxd6XGnDWjwarHV&index=2"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "[Tibia Onde Caçar– EK 400+] Burster Spectres - (3,5 KK xp/hr 250k+ profit/hr @ 440)",
+          "url": "https://www.youtube.com/watch?v=npTDGNY4-tY"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "[Tibia Onde Profitar – EK 20+] Salamander Cave - 100k PROFIT / HR",
+          "url": "https://www.youtube.com/watch?v=vSPymkBSM9s"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Paladin",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "RP: OP ou mimimi ?",
+        "url": "https://www.youtube.com/watch?v=tcs6k5PwqKE&list=PLnR5Nu4x1Dsb56YPH-wl14RS3H6FIV0q9&index=15"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Dicas essenciais para RP",
+          "url": "https://www.youtube.com/watch?v=Yc4rA1sq_pI"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Sezeros, o RP do Zero - Level 0 ao 8, skill 15/12 #1",
+          "url": "https://www.youtube.com/watch?v=tcs6k5PwqKE&list=PLnR5Nu4x1Dsb56YPH-wl14RS3H6FIV0q9&index=15"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Qual Armor comprar para RP?",
+          "url": "https://www.youtube.com/watch?v=AHthyqC7yvg"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Falcon Bastion - RP 550+ - Full Profit",
+          "url": "https://www.youtube.com/watch?v=sKnve0pkRAM"
+        },
+        {
+          "titulo": "Paladin Level 8 ao 100+ *solo* | Matts",
+          "url": "https://www.youtube.com/watch?v=k3u4fY5TaJg"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Mage",
       "cor": "orange",
+      "link_extra": {
+        "text": "Porque druid e sorcerer é tudo igual, só que ed é melhor. SUPERA !",
+        "url": "https://www.tibiawiki.com.br/wiki/Magias_Instant%C3%A2neas"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "HUNT Mages 70+ FURY de MoTA | Tibia",
+          "url": "https://www.youtube.com/watch?v=dNLeBwtfLRs"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Tibia Hunt Lvl 30 Ed e Ms( Mage ) Lion's Rock ( Melhor que Peg Leg e The spike )",
+          "url": "https://www.youtube.com/watch?v=hohvdlTcuao"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Hunt Ed e Ms lvl 80+ Mage Elfo de Fogo (versão extendida)",
+          "url": "https://www.youtube.com/watch?v=Ga76Mwr6jSs"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "FULL PROFIT 300k/hr (MAGE) | PUTRID MUMMY | LVL 100+ 750xp/hr",
+          "url": "https://www.youtube.com/watch?v=KDiEigIf5Qg"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Quests",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Pra quem tem preguiça de olhar na wiki",
+        "url": "https://www.tibiawiki.com.br/wiki/Quests"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "[TIBIA] - THE WAY TO YALAHAR QUEST (COMPLETA) | ACESSO YALAHAR",
+          "url": "https://www.youtube.com/watch?v=5LWOc1jh_EQ"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Como Fazer Acesso a Feyrist e Kroazur (Quest + Caminho + Explicação)",
+          "url": "https://www.youtube.com/watch?v=5AHWABktUfw"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Tibia - Warzone 1,2 e 3 (180K de lucro por dia)",
+          "url": "https://www.youtube.com/watch?v=OSMH8rhPc5o"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "The New Frontier Quest - Missão 1 a 7 (RP 57 Solo) - Cosera",
+          "url": "https://www.youtube.com/watch?v=zAY_lwd9o2Q"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Tibia - A MELHOR MANEIRA DE FAZER OS PONTOS DE ORAMOND",
+          "url": "https://www.youtube.com/watch?v=78xNP1Tq9os"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "TibiaClips",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Os melhores clips de tibia da internet #TibiaFerumbrinha🧙",
+        "url": "https://www.youtube.com/results?search_query=%23TibiaFerumbrinha"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "LVL 1289 MORRENDO NO NOVO RESPAW, FIRST CLUB 400 e UPANDO SWORD 135! - TibiaClips #TibiaFerumbrinha🧙",
+          "url": "https://www.youtube.com/watch?v=GHkS4iT_QjE"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "BUG ABUSE/EXPLOID (SUPER PROFIT!! 200KK+!) deletera?? NOP XD - Tibia Best Clips",
+          "url": "https://www.youtube.com/watch?v=7S4C3hWKYpU"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "ULTIMA QUEST 'Summer Update' FINALIZADA!! 'Facil?! Kappa'- TibiaClips",
+          "url": "https://www.youtube.com/watch?v=e4jN_qWaXP8"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "FRAGANDO 'FERUMBRAS HAT' DANDO MENOS DANO?!?!? MELHOR REAÇÃO!",
+          "url": "https://www.youtube.com/watch?v=I4Zk6HVShJU"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
-        }
+          "titulo": "FAZENDO 175KK DE EXP EM SERVIDOR HARDCORE!! UPANDO DO 458 AO 475!!",
+          "url": "https://www.youtube.com/watch?v=4t1ayRZ8oVo"
+        },
+        {
+          "titulo": "DRUID LEVEL 1090 WITH 160 HP and LIBRARY WAR",
+          "url": "https://www.youtube.com/watch?v=6UUptok1QVw"
+        },
+        {
+          "titulo": "PLAYER COM 892K de TIBIA COINS!! 🤑 e DROPANDO FERUMBRAS HAT!!",
+          "url": "https://www.youtube.com/watch?v=hNzkpa8shBY"
+        },
+        {
+          "titulo": "LEVEL 930 TOMANDO HS! ATACANDO SEM CLICAR e DROPANDO COBRA HOOD!",
+          "url": "https://www.youtube.com/watch?v=pMBgjn3G20s"
+        }        
       ]
+      
     }
   ]
 }

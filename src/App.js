@@ -12,7 +12,7 @@ function App() {
       <BannerMain
         videoTitle={mock.categorias[0].videos[0].titulo}
         url={mock.categorias[0].videos[0].url}
-        videoDescription={`Descricao do video aqui.`}
+        videoDescription={`Voltando ao crack depois de anos !`}
       />
       <Carousel
         ignoreFirstVideo
